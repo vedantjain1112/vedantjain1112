@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantjain1112&label=Profile%20views&color=0e75b6&style=flat" alt="vedantjain1112" /> </p>
 
 - 🌱 I’m currently learning **React, NodeJS, Express**
+- 👨‍💻 All of my projects are available at [https://jainvedant1121.netlify.app/](https://jainvedant1121.netlify.app/)
 
 - 💬 Ask me about **C++, Python, SQL, HTML/CSS/JS**
 
